@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87d85e0a.css",
+    "main.js": "/static/js/main.c79d0991.js",
+    "static/media/background-competences2.jpg": "/static/media/background-competences2.fcb0b0bb5b052659c45e.jpg",
+    "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/background1.jpg": "/static/media/background1.27982879d8935cb08e5b.jpg",
+    "index.html": "/index.html",
+    "main.87d85e0a.css.map": "/static/css/main.87d85e0a.css.map",
+    "main.c79d0991.js.map": "/static/js/main.c79d0991.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d85e0a.css",
+    "static/js/main.c79d0991.js"
+  ]
+}
